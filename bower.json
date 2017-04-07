@@ -1,0 +1,17 @@
+{
+  "name": "look",
+  "authors": [
+    "475218106@qq.com <zhangJ@7388407>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
