@@ -2,7 +2,7 @@
  * Created by zj on 2017/4/6.
  * git
  */
-var express = require("express"); // express模块
+var express = require("express"); // express模块 123
 var app = express(); // process是全局变量
 
 var path = require('path'); //查找路径
